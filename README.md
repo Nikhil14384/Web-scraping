@@ -1,2 +1,2 @@
 # Web-scraping
-Web scraping fundamentals
+Web scraping fundamentals using Beautiful Soup
