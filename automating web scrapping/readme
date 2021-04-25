@@ -2,4 +2,13 @@ Welcome to this automating web scraping learning
 
 Check the files required and get started...
 
+
+
+Steps:
+ 1. download all the files and place them in single folder
+ 2.open the flask search.py file in any python console and run it
+ 3.local host will be created and check the link below
+ 
+ 
+
 local host link ------ http://localhost:8080/?q="enter your search words here"
