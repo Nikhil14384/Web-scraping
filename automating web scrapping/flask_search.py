@@ -10,7 +10,7 @@ from flask import Flask, request
 
 
 amazon_scraper=AutoScraper()
-amazon_scraper.load('amazon-search')
+amazon_scraper.load('amazon-search3')
 
 app = Flask(__name__)
 
